@@ -1,0 +1,71 @@
+body{
+    background-color: rosybrown;
+
+}
+#imgMK {
+    width: 150px;
+    height: 80px;
+    margin: 50px 0px 5px 30px;
+}
+nav{
+    background-color: black;
+    
+}
+#menu{
+    padding-left: 300px;
+    justify-content: center;
+}
+.menu{
+    list-style: none;
+    display: inline-flex;
+    justify-content: space-around;
+
+}
+
+li{
+    list-style: none;
+    padding-right: 20px; 
+} 
+  
+a{
+    text-decoration: none;
+    color: rosybrown;
+    margin: 0px 50px 0px 50px;
+}  
+
+.video{
+   width: 2000%;
+   height: 5000px;
+ 
+
+}
+
+ul{
+    display: inline-flex;
+}
+img{
+    border-radius: 15px;
+    border: black;
+    
+}
+.registro{
+    background-color:black;
+    border-radius: 15px;
+    width: 400px;
+    height: 400px;
+    justify-content: center;
+    color: rosybrown; 
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;  
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+input{
+    border-radius: 15px;
+    background-color: rgb(240, 227, 227);
+    margin:  10px;
+    padding: 15px;
+    border-color: rosybrown;
+}
